@@ -1,0 +1,5 @@
+appopener==1.7
+darkdetect==0.8.0
+infi.systray==0.1.12
+keyboard==0.13.5
+typing_extensions==3.10.0.2

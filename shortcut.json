@@ -1,0 +1,19 @@
+[
+  {
+    "name": "terminal preview",
+    "key": "windows + enter"
+  },
+  {
+    "name": "telegram",
+    "key": "alt + 0"
+  },
+  {
+    "name": "whatsapp",
+    "key": "alt + 9"
+  },
+  {
+    "name": "chrome",
+    "key": "alt + 8"
+  }
+]
+
