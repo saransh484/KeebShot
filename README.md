@@ -1,12 +1,10 @@
 # KeebShot - Custom Keyboard Shortcut for Windows
 
-
-
 KeebShot is a custom keyboard shortcut application developed using Python. It allows users to define and manage their own keyboard shortcuts for various tasks and actions on their computer. Whether you're a power user or simply want to streamline your workflow, KeebShot offers a simple and efficient way to enhance your productivity.
 
-                                                            ![](Screenshots/icon.png)
+                                                            ![](Screenshots/icon.jpg)
 
-                ![](Screenshots/settings.png)
+                ![](Screenshots/settings.jpg)
 
 ## Requirements
 
@@ -39,13 +37,14 @@ pip install requirements.txt
 ## Usage
 
 1. Launch KeebShot by running the `runner-script.bat` file.
+
 2. Right click on the system tray icon of KeebShot and click on settings
 
-2. The GUI window will pop up, click on Edit JSON Use to create, edit, and manage your custom keyboard shortcuts. Specify the desired keyboard combination and the associated action for each shortcut.
+3. The GUI window will pop up, click on Edit JSON Use to create, edit, and manage your custom keyboard shortcuts. Specify the desired keyboard combination and the associated action for each shortcut.
 
-3. Save your shortcuts, and hit Restart App to load the changes KeebShot will automatically start monitoring the keyboard for the defined combinations. When a shortcut is triggered, the associated action will be executed.
+4. Save your shortcuts, and hit Restart App to load the changes KeebShot will automatically start monitoring the keyboard for the defined combinations. When a shortcut is triggered, the associated action will be executed.
 
-4. To exit KeebShot, simply right click on the system tray icon and select Quit.
+5. To exit KeebShot, simply right click on the system tray icon and select Quit.
 
 ## Contributing
 
@@ -64,5 +63,3 @@ KeebShot was inspired by the need for customizable keyboard shortcuts and was de
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to reach out to the project maintainer at [saranshbhatnagar@proton.me](mailto:saranshbhatnagar@proton.me). We appreciate your interest in KeebShot!
-
-
