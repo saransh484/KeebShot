@@ -2,9 +2,10 @@
 
 KeebShot is a custom keyboard shortcut application developed using Python. It allows users to define and manage their own keyboard shortcuts for various tasks and actions on their computer. Whether you're a power user or simply want to streamline your workflow, KeebShot offers a simple and efficient way to enhance your productivity.
 
-                                                            ![](Screenshots/icon.jpg)
 
-                ![](Screenshots/settings.jpg)
+                                                            ![icon](/Screenshots/icon.jpg)
+
+                ![settings](/Screenshots/settings.jpg)
 
 ## Requirements
 
