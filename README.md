@@ -6,6 +6,10 @@ KeebShot is a custom keyboard shortcut application developed using Python. It al
 
                 ![settings](https://imgur.com/cpSNdfH.png)
 
+## Demo Clip
+
+[KeebShot demo - YouTube](https://youtu.be/SaSdJ-O91pY)
+
 ## Requirements
 
 - Python 3.x

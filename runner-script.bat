@@ -1,1 +1,1 @@
-pythonw ./keeb.py
+pythonw G:\Python\keeb.py
